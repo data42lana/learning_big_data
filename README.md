@@ -1,6 +1,6 @@
 ## Big Data Analysis with Pyspark - WDI
 ---
-A Jupyter notebook with an example of big data analysis using the Pyspark SQL module.
+A Jupyter notebook with an example of big data analysis using the **Pyspark SQL** module.
 ### Overview:
 ---
 The objective of the project is to learn tools of the Pyspark SQL module for working with big data on an example of analysis of World Development Indicators. It used DataFrames and its methods, built-in functions, window functions, and converting SQL queries to DataFrame. Suitable for those who want to see how these tools work in practice.
